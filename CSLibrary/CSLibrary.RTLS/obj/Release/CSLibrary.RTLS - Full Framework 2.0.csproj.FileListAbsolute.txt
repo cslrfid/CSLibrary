@@ -1,0 +1,15 @@
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.dll
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.pdb
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\Common Library\CSLibrary.RTLS\obj\Release\ResolveAssemblyReference.cache
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\Common Library\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.dll
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\Common Library\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.pdb
+D:\KY WorkSpace\SOURCE BUILD\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.dll
+D:\KY WorkSpace\SOURCE BUILD\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.pdb
+D:\KY WorkSpace\SOURCE BUILD\Common Library\CSLibrary.RTLS\obj\Release\ResolveAssemblyReference.cache
+D:\KY WorkSpace\SOURCE BUILD\Common Library\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.dll
+D:\KY WorkSpace\SOURCE BUILD\Common Library\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.pdb
+D:\Mephist\SOURCE BUILD\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.dll
+D:\Mephist\SOURCE BUILD\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.pdb
+D:\Mephist\SOURCE BUILD\Common Library\CSLibrary.RTLS\obj\Release\ResolveAssemblyReference.cache
+D:\Mephist\SOURCE BUILD\Common Library\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.dll
+D:\Mephist\SOURCE BUILD\Common Library\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.pdb

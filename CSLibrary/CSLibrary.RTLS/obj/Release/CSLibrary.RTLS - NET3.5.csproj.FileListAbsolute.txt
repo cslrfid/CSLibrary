@@ -1,0 +1,13 @@
+D:\Mephist\RFID Project - NEW\Library Source\CSLibrary.RTLS\obj\Release\ResolveAssemblyReference.cache
+D:\Mephist\RFID Project - NEW\CS506 Demo Apps\CSL\Library\WindowsXP\NET3.5\CSLibrary.RTLS.dll
+D:\Mephist\RFID Project - NEW\CS506 Demo Apps\CSL\Library\WindowsXP\NET3.5\CSLibrary.RTLS.pdb
+D:\Mephist\RFID Project - NEW\Library Source\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.dll
+D:\Mephist\RFID Project - NEW\Library Source\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.pdb
+D:\Backup\DriverD-20170413 - Copy\RFID Project - NEW\CS506 Demo Apps\CSL\Library\WindowsXP\NET3.5\CSLibrary.RTLS.dll
+D:\Backup\DriverD-20170413 - Copy\RFID Project - NEW\CS506 Demo Apps\CSL\Library\WindowsXP\NET3.5\CSLibrary.RTLS.pdb
+D:\Backup\DriverD-20170413 - Copy\RFID Project - NEW\Library Source\CSLibrary.RTLS\obj\Release\ResolveAssemblyReference.cache
+D:\Backup\DriverD-20170413 - Copy\RFID Project - NEW\Library Source\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.dll
+D:\Backup\DriverD-20170413 - Copy\RFID Project - NEW\Library Source\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.pdb
+D:\OldProject\DriverD-20190213\RFID Project - NEW\Library Source\CSLibrary.RTLS\obj\Release\ResolveAssemblyReference.cache
+D:\OldProject\DriverD-20190213\RFID Project - NEW\Library Source\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.dll
+D:\OldProject\DriverD-20190213\RFID Project - NEW\Library Source\CSLibrary.RTLS\obj\Release\CSLibrary.RTLS.pdb

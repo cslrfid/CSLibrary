@@ -1,0 +1,6 @@
+D:\Backup\DriverD-20170413 - Copy\RFID Project - NEW\Library Source\CSLibrary.RTLS.Transport\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\DriverD-20170413 - Copy\RFID Project - NEW\Library Source\CSLibrary.RTLS.Transport\obj\Debug\CSLibrary.RTLS.Transport.dll
+D:\Backup\DriverD-20170413 - Copy\RFID Project - NEW\Library Source\CSLibrary.RTLS.Transport\obj\Debug\CSLibrary.RTLS.Transport.pdb
+D:\OldProject\DriverD-20190213\RFID Project - NEW\Library Source\CSLibrary.RTLS.Transport\obj\Debug\ResolveAssemblyReference.cache
+D:\OldProject\DriverD-20190213\RFID Project - NEW\Library Source\CSLibrary.RTLS.Transport\obj\Debug\CSLibrary.RTLS.Transport.dll
+D:\OldProject\DriverD-20190213\RFID Project - NEW\Library Source\CSLibrary.RTLS.Transport\obj\Debug\CSLibrary.RTLS.Transport.pdb

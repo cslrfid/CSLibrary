@@ -1,0 +1,16 @@
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\WindowsXP\NET3.5\CSLibrary.dll.config
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\WindowsXP\NET3.5\CSLibrary.dll
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\WindowsXP\NET3.5\CSLibrary.pdb
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\obj\Release\CSLibrary - NET4.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\obj\Release\CSLibrary.dll
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\obj\Release\CSLibrary.pdb
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary - NET4.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.dll
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.pdb
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CS203 Release Library\NET4\CSLibrary.dll.config
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CS203 Release Library\NET4\CSLibrary.dll
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CS203 Release Library\NET4\CSLibrary.pdb
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary - NET4.csproj.AssemblyReference.cache
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll.config
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.pdb

@@ -1,0 +1,7 @@
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\bin\WindowsXP\NET3.5\CSLibrary.dll.config
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\bin\WindowsXP\NET3.5\CSLibrary.dll
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\bin\WindowsXP\NET3.5\CSLibrary.pdb
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\obj\x86\Release\CSLibrary - NET4.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\obj\x86\Release\CSLibrary.dll
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\obj\x86\Release\CSLibrary.pdb
+C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\obj\x86\Release\CSLibrary - NET4.csproj.AssemblyReference.cache

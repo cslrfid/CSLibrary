@@ -1,0 +1,6 @@
+D:\Mephist\RFID Project\CS101 Debug Library\WindowsCE\NETCF3.5\CSLibrary.RTLS.Transport.XML
+D:\Mephist\RFID Project\CS101 Debug Library\WindowsCE\NETCF3.5\CSLibrary.RTLS.Transport.dll
+D:\Mephist\RFID Project\CS101 Debug Library\WindowsCE\NETCF3.5\CSLibrary.RTLS.Transport.pdb
+D:\Mephist\RFID Project\Library Source\CSLibrary.RTLS.Transport\obj\Debug\ResolveAssemblyReference.cache
+D:\Mephist\RFID Project\Library Source\CSLibrary.RTLS.Transport\obj\Debug\CSLibrary.RTLS.Transport.dll
+D:\Mephist\RFID Project\Library Source\CSLibrary.RTLS.Transport\obj\Debug\CSLibrary.RTLS.Transport.pdb

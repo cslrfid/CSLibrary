@@ -1,0 +1,15 @@
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.Transport.dll
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.Transport.pdb
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\Common Library\CSLibrary.RTLS.Transport\obj\Release\ResolveAssemblyReference.cache
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\Common Library\CSLibrary.RTLS.Transport\obj\Release\CSLibrary.RTLS.Transport.dll
+D:\KY WorkSpace\CS101 SOURCE BUILD(20 AUG 2010 V1)\Common Library\CSLibrary.RTLS.Transport\obj\Release\CSLibrary.RTLS.Transport.pdb
+D:\KY WorkSpace\SOURCE BUILD\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.Transport.dll
+D:\KY WorkSpace\SOURCE BUILD\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.Transport.pdb
+D:\KY WorkSpace\SOURCE BUILD\Common Library\CSLibrary.RTLS.Transport\obj\Release\ResolveAssemblyReference.cache
+D:\KY WorkSpace\SOURCE BUILD\Common Library\CSLibrary.RTLS.Transport\obj\Release\CSLibrary.RTLS.Transport.dll
+D:\KY WorkSpace\SOURCE BUILD\Common Library\CSLibrary.RTLS.Transport\obj\Release\CSLibrary.RTLS.Transport.pdb
+D:\Mephist\SOURCE BUILD\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.Transport.dll
+D:\Mephist\SOURCE BUILD\CS203 Release Library\WindowsXP\NET2.0\CSLibrary.RTLS.Transport.pdb
+D:\Mephist\SOURCE BUILD\Common Library\CSLibrary.RTLS.Transport\obj\Release\ResolveAssemblyReference.cache
+D:\Mephist\SOURCE BUILD\Common Library\CSLibrary.RTLS.Transport\obj\Release\CSLibrary.RTLS.Transport.dll
+D:\Mephist\SOURCE BUILD\Common Library\CSLibrary.RTLS.Transport\obj\Release\CSLibrary.RTLS.Transport.pdb

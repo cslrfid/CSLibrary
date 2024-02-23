@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhtcLl1jlZTOgFtjfxYa2mcAuW73K7PyLaTxFKmb064kuPYmCG9Hh5xvv8qCOMplsdVFh1lp9KH5tpjzDOFnfw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\GitHub\\CSL-Mobile-CSharp-DotNetStd-App\\Library\\CSLibrary\\CSLibrary2024-NETStandard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MephistSiu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MephistSiu\\.nuget\\packages\\mvvmcross.plugin.ble\\2.2.0-pre5\\mvvmcross.plugin.ble.2.2.0-pre5.nupkg.sha512",
+    "C:\\Users\\MephistSiu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MephistSiu\\.nuget\\packages\\plugin.ble\\2.2.0-pre5\\plugin.ble.2.2.0-pre5.nupkg.sha512"
+  ],
+  "logs": []
+}
