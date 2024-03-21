@@ -8,3 +8,4 @@ C:\Projects\GitHub\CSL-Mobile-CSharp-DotNetStd-App\Library\CSLibrary\obj\Release
 C:\Projects\GitHub\CSL-Mobile-CSharp-DotNetStd-App\Library\CSLibrary\obj\Release\netstandard2.0\CSLibrary2024-NETStandard.csproj.CoreCompileInputs.cache
 C:\Projects\GitHub\CSL-Mobile-CSharp-DotNetStd-App\Library\CSLibrary\obj\Release\netstandard2.0\CSLibrary2024.NETSTD2.dll
 C:\Projects\GitHub\CSL-Mobile-CSharp-DotNetStd-App\Library\CSLibrary\obj\Release\netstandard2.0\CSLibrary2024.NETSTD2.pdb
+C:\Projects\GitHub\CSL-Mobile-CSharp-DotNetStd-App\Library\CSLibrary\obj\Release\netstandard2.0\CSLibrary2024-NETStandard.sourcelink.json

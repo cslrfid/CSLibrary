@@ -1,0 +1,7 @@
+C:\Projects\GitHub\CSLibrary\Tools\GanCS203XLFreqTable\GanCS203XLFreqTable\bin\Debug\GanCS203XLFreqTable.exe.config
+C:\Projects\GitHub\CSLibrary\Tools\GanCS203XLFreqTable\GanCS203XLFreqTable\bin\Debug\GanCS203XLFreqTable.exe
+C:\Projects\GitHub\CSLibrary\Tools\GanCS203XLFreqTable\GanCS203XLFreqTable\bin\Debug\GanCS203XLFreqTable.pdb
+C:\Projects\GitHub\CSLibrary\Tools\GanCS203XLFreqTable\GanCS203XLFreqTable\obj\Debug\GanCS203XLFreqTable.csproj.AssemblyReference.cache
+C:\Projects\GitHub\CSLibrary\Tools\GanCS203XLFreqTable\GanCS203XLFreqTable\obj\Debug\GanCS203XLFreqTable.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\CSLibrary\Tools\GanCS203XLFreqTable\GanCS203XLFreqTable\obj\Debug\GanCS203XLFreqTable.exe
+C:\Projects\GitHub\CSLibrary\Tools\GanCS203XLFreqTable\GanCS203XLFreqTable\obj\Debug\GanCS203XLFreqTable.pdb

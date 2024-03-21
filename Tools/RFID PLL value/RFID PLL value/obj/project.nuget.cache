@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mj0W5qXqIvqAwukD+XqmmUHkuTnS2WSBPBciyGNNnvwjexKe8jtPd5MMWRolblTavhenv70y2bZQ7XL7RyOAYQ==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\MephistSiu\\source\\repos\\RFID PLL value\\RFID PLL value\\RFID PLL value.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mephist Siu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mephist Siu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mephist Siu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Mephist Siu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\obj\Debug\netcoreapp3.1\RFID PLL value.csproj.AssemblyReference.cache
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\obj\Debug\netcoreapp3.1\RFID PLL value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\obj\Debug\netcoreapp3.1\RFID PLL value.AssemblyInfoInputs.cache
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\obj\Debug\netcoreapp3.1\RFID PLL value.AssemblyInfo.cs
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\obj\Debug\netcoreapp3.1\RFID PLL value.csproj.CoreCompileInputs.cache
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\bin\Debug\netcoreapp3.1\RFID PLL value.exe
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\bin\Debug\netcoreapp3.1\RFID PLL value.deps.json
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\bin\Debug\netcoreapp3.1\RFID PLL value.runtimeconfig.json
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\bin\Debug\netcoreapp3.1\RFID PLL value.runtimeconfig.dev.json
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\bin\Debug\netcoreapp3.1\RFID PLL value.dll
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\bin\Debug\netcoreapp3.1\RFID PLL value.pdb
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\obj\Debug\netcoreapp3.1\RFID PLL value.dll
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\obj\Debug\netcoreapp3.1\RFID PLL value.pdb
+C:\Users\MephistSiu\source\repos\RFID PLL value\RFID PLL value\obj\Debug\netcoreapp3.1\RFID PLL value.genruntimeconfig.cache

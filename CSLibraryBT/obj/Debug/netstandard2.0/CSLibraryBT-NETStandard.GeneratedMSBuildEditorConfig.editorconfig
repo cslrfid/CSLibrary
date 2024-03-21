@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = CSLibrary
 build_property.ProjectDir = C:\Projects\GitHub\CS108-Mobile-CSharp-DotNetStd-App-v4\Library\CSLibrary\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

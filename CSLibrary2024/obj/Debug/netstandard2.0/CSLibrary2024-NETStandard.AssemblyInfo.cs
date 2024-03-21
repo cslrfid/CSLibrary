@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSLibrary2024.NETSTD2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("3.0.3.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.0.3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.0.3+8d65d777276722789f6b95243fb6248dce2f4672")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSLibrary2024.NETSTD2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSLibrary2024.NETSTD2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("3.0.3.0")]
