@@ -1,2 +1,2 @@
 # CSLibrary
-C# Library for RFID reader
+C# Library for CSL RFID reader
