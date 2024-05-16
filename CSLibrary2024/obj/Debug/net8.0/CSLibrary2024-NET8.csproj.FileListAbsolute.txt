@@ -1,0 +1,12 @@
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\obj\Debug\net8.0\CSLibrary2024-NET8.csproj.AssemblyReference.cache
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\obj\Debug\net8.0\CSLibrary2024-NET8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\obj\Debug\net8.0\CSLibrary2024-NET8.AssemblyInfoInputs.cache
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\obj\Debug\net8.0\CSLibrary2024-NET8.AssemblyInfo.cs
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\obj\Debug\net8.0\CSLibrary2024-NET8.csproj.CoreCompileInputs.cache
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\bin\Debug\net8.0\CSLibrary2024.NET8.deps.json
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\bin\Debug\net8.0\CSLibrary2024.NET8.dll
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\bin\Debug\net8.0\CSLibrary2024.NET8.pdb
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\obj\Debug\net8.0\CSLibrary2024.NET8.dll
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\obj\Debug\net8.0\refint\CSLibrary2024.NET8.dll
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\obj\Debug\net8.0\CSLibrary2024.NET8.pdb
+C:\Projects\CS710S-Inventory-MQTT-broker\Library\CSLibrary\obj\Debug\net8.0\ref\CSLibrary2024.NET8.dll

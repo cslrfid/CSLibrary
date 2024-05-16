@@ -26,6 +26,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 using CSLibrary.Constants;
+using CSLibrary.Structures;
+using static CSLibrary.HighLevelInterface;
 
 namespace CSLibrary
 {
@@ -73,6 +75,7 @@ namespace CSLibrary
                 case Operation.TAG_EXERANGING: // Enable get battery level by interrupt
                     CurrentOperation = Operation.TAG_RANGING;
                     _deviceHandler.battery.EnableAutoBatteryLevel();
+                    PreTagRangingThreadProc(); // fix multibank can not work when selectd tag
                     ExeTagRangingThreadProc();
                     break;
 

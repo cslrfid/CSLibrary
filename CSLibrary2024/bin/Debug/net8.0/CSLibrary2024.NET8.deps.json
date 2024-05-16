@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CSLibrary2024.NET8/3.0.3": {
+        "dependencies": {
+          "Plugin.BLE": "3.0.0"
+        },
+        "runtime": {
+          "CSLibrary2024.NET8.dll": {}
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.BLE.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSLibrary2024.NET8/3.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Plugin.BLE/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9SXMCmmCGW1FfOquBc6oBJuR3G0M9L2Qfovr9zoIEf799OvdrxFtrgs4KpYJbbAOyhC3EULG9x/1zEK9S3y1HA==",
+      "path": "plugin.ble/3.0.0",
+      "hashPath": "plugin.ble.3.0.0.nupkg.sha512"
+    }
+  }
+}

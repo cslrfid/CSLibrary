@@ -119,7 +119,7 @@ namespace CSLibrary
             //            await _characteristicWrite.StartUpdatesAsync();
 
             _readerState = READERSTATE.IDLE;
-            BTTimer = new Timer(TimerFunc, this, 0, 1000);
+            //BTTimer = new Timer(TimerFunc, this, 0, 1000);
 
             HardwareInit();
 

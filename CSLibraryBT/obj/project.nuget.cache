@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LBQ94JWgzwuqU8pH8t3/AILCzNq8B9hmJ3hfEBgqt1ToBiRH7+y2hQ+C9Ill0yJS9efwMUg+60B3lQLU1Xb3+A==",
+  "dgSpecHash": "g0quq0Bl/zzV9poP72f9fSl1eXZIHczpgkQGqq2V/6jo8BhD7g7SWbxSHT+Gzf8Ev3QtZ+OghFN85Pqt4hMU4A==",
   "success": true,
   "projectFilePath": "C:\\Projects\\GitHub\\CS108-Mobile-CSharp-DotNetStd-App-v4\\Library\\CSLibrary\\CSLibraryBT-NETStandard.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MephistSiu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\MephistSiu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\MephistSiu\\.nuget\\packages\\plugin.ble\\2.1.3\\plugin.ble.2.1.3.nupkg.sha512"
+    "C:\\Users\\Mephist Siu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mephist Siu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Mephist Siu\\.nuget\\packages\\plugin.ble\\2.1.3\\plugin.ble.2.1.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -6,6 +6,6 @@ C:\Projects\GitHub\CS108-Mobile-CSharp-DotNetStd-App-v4\Library\CSLibrary\obj\Re
 C:\Projects\GitHub\CS108-Mobile-CSharp-DotNetStd-App-v4\Library\CSLibrary\obj\Release\netstandard2.0\CSLibraryBT-NETStandard.AssemblyInfoInputs.cache
 C:\Projects\GitHub\CS108-Mobile-CSharp-DotNetStd-App-v4\Library\CSLibrary\obj\Release\netstandard2.0\CSLibraryBT-NETStandard.AssemblyInfo.cs
 C:\Projects\GitHub\CS108-Mobile-CSharp-DotNetStd-App-v4\Library\CSLibrary\obj\Release\netstandard2.0\CSLibraryBT-NETStandard.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\CS108-Mobile-CSharp-DotNetStd-App-v4\Library\CSLibrary\obj\Release\netstandard2.0\CSLibraryBT-NETStandard.sourcelink.json
 C:\Projects\GitHub\CS108-Mobile-CSharp-DotNetStd-App-v4\Library\CSLibrary\obj\Release\netstandard2.0\CSLibrary.dll
 C:\Projects\GitHub\CS108-Mobile-CSharp-DotNetStd-App-v4\Library\CSLibrary\obj\Release\netstandard2.0\CSLibrary.pdb
-C:\Projects\GitHub\CS108-Mobile-CSharp-DotNetStd-App-v4\Library\CSLibrary\obj\Release\netstandard2.0\CSLibraryBT-NETStandard.sourcelink.json
