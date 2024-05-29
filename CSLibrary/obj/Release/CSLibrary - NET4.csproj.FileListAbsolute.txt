@@ -14,3 +14,17 @@ C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Rel
 C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll.config
 C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll
 C:\Projects\GitHub\CSL-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.pdb
+C:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll.config
+C:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll
+C:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.pdb
+C:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary - NET4.csproj.AssemblyReference.cache
+C:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary - NET4.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.dll
+C:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.pdb
+\\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll.config
+\\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll
+\\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.pdb
+\\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary - NET4.csproj.AssemblyReference.cache
+\\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary - NET4.csproj.CoreCompileInputs.cache
+\\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.dll
+\\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.pdb
