@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "CSLibrary2024.NETSTD2/3.0.3": {
+        "dependencies": {
+          "MvvmCross.Plugin.BLE": "2.2.0-pre5"
+        },
+        "runtime": {
+          "CSLibrary2024.NETSTD2.dll": {}
+        }
+      },
+      "MvvmCross.Plugin.BLE/2.2.0-pre5": {
+        "dependencies": {
+          "Plugin.BLE": "2.2.0-pre5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MvvmCross.Plugins.BLE.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Plugin.BLE/2.2.0-pre5": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Plugin.BLE.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSLibrary2024.NETSTD2/3.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MvvmCross.Plugin.BLE/2.2.0-pre5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wovTcsavaCK9eHO8QbP2Duv3CZqgFq8BZFI8X/7NFU/EeuT8LZXsR4+Kn5p+0QFsRDIefV8pXPofJUgKBJKq4w==",
+      "path": "mvvmcross.plugin.ble/2.2.0-pre5",
+      "hashPath": "mvvmcross.plugin.ble.2.2.0-pre5.nupkg.sha512"
+    },
+    "Plugin.BLE/2.2.0-pre5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rR0TCc29f6j+WhGMRvow8tWnS++yBPCjoTrC3FQzAYmdAKXRf6o3qkUBvwmkUMreYyPs4A1SLU028q+XT18ixA==",
+      "path": "plugin.ble/2.2.0-pre5",
+      "hashPath": "plugin.ble.2.2.0-pre5.nupkg.sha512"
+    }
+  }
+}

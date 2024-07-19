@@ -28,3 +28,10 @@ C:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\C
 \\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary - NET4.csproj.CoreCompileInputs.cache
 \\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.dll
 \\Desktop-19h24ti\C\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.pdb
+P:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll.config
+P:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.dll
+P:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\CSL RFID Demo Apps\Release Libraries\NET4\CSLibrary.pdb
+P:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary - NET4.csproj.AssemblyReference.cache
+P:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary - NET4.csproj.CoreCompileInputs.cache
+P:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.dll
+P:\Projects\GitHub\CS463-203X-468XJ-PC-Callback-Unified-SDK-App\Library Source\CSLibrary\obj\Release\CSLibrary.pdb

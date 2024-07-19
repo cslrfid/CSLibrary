@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("3.0.5.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.0.5+14fd8a1e9beebee603be359853c2be3090a54b1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.0.5+90d90fa1c393dff16527786dcb0d4a02395d84b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("3.0.5.0")]

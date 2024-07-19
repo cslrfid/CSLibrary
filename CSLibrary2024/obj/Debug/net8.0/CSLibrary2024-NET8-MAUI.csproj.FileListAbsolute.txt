@@ -23,3 +23,15 @@ C:\Projects\GitHub\CS710S-C-Sharp-APP-for-MAUI\Library\CSLibrary\obj\Debug\net8.
 C:\Projects\GitHub\CS710S-C-Sharp-APP-for-MAUI\Library\CSLibrary\obj\Debug\net8.0\refint\CSLibrary2024.NET8.MAUI.dll
 C:\Projects\GitHub\CS710S-C-Sharp-APP-for-MAUI\Library\CSLibrary\obj\Debug\net8.0\CSLibrary2024.NET8.MAUI.pdb
 C:\Projects\GitHub\CS710S-C-Sharp-APP-for-MAUI\Library\CSLibrary\obj\Debug\net8.0\ref\CSLibrary2024.NET8.MAUI.dll
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\bin\Debug\net8.0\CSLibrary2024.NET8.MAUI.deps.json
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\bin\Debug\net8.0\CSLibrary2024.NET8.MAUI.dll
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\bin\Debug\net8.0\CSLibrary2024.NET8.MAUI.pdb
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\obj\Debug\net8.0\CSLibrary2024-NET8-MAUI.csproj.AssemblyReference.cache
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\obj\Debug\net8.0\CSLibrary2024-NET8-MAUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\obj\Debug\net8.0\CSLibrary2024-NET8-MAUI.AssemblyInfoInputs.cache
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\obj\Debug\net8.0\CSLibrary2024-NET8-MAUI.AssemblyInfo.cs
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\obj\Debug\net8.0\CSLibrary2024-NET8-MAUI.csproj.CoreCompileInputs.cache
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\obj\Debug\net8.0\CSLibrary2024.NET8.MAUI.dll
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\obj\Debug\net8.0\refint\CSLibrary2024.NET8.MAUI.dll
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\obj\Debug\net8.0\CSLibrary2024.NET8.MAUI.pdb
+C:\Projects\CS710S-Inventory-MQTT\Library\CSLibrary2024\obj\Debug\net8.0\ref\CSLibrary2024.NET8.MAUI.dll

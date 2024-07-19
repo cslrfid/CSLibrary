@@ -1,0 +1,11 @@
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\bin\Release\netstandard2.1\CSLibrary2024.NETSTD2.deps.json
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\bin\Release\netstandard2.1\CSLibrary2024.NETSTD2.dll
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\bin\Release\netstandard2.1\CSLibrary2024.NETSTD2.pdb
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\obj\Release\netstandard2.1\CSLibrary2024-NETStandard.csproj.AssemblyReference.cache
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\obj\Release\netstandard2.1\CSLibrary2024-NETStandard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\obj\Release\netstandard2.1\CSLibrary2024-NETStandard.AssemblyInfoInputs.cache
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\obj\Release\netstandard2.1\CSLibrary2024-NETStandard.AssemblyInfo.cs
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\obj\Release\netstandard2.1\CSLibrary2024-NETStandard.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\obj\Release\netstandard2.1\CSLibrary2024-NETStandard.sourcelink.json
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\obj\Release\netstandard2.1\CSLibrary2024.NETSTD2.dll
+C:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary\obj\Release\netstandard2.1\CSLibrary2024.NETSTD2.pdb
