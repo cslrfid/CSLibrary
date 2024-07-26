@@ -1,0 +1,10 @@
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\bin\Debug\CSLibrary2024.NET4.dll
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\bin\Debug\CSLibrary2024.NET4.pdb
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\bin\Debug\wclBluetoothFramework.dll
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\bin\Debug\wclCommon.dll
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\bin\Debug\wclCommunication.dll
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\obj\Debug\CSLibrary2024-NET4.csproj.AssemblyReference.cache
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\obj\Debug\CSLibrary2024-NET4.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\obj\Debug\CSLibrar.434F01CC.Up2Date
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\obj\Debug\CSLibrary2024.NET4.dll
+C:\Projects\GitHub\CS710S-Windows-CSharp-Desktop-Demo\Library\CSLibrary2024\obj\Debug\CSLibrary2024.NET4.pdb
