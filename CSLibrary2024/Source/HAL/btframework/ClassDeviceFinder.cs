@@ -151,7 +151,7 @@ namespace CSLibrary
 
             if (Radio != null)
             {
-                Int32 Res = Radio.Discover(3, wclBluetoothDiscoverKind.dkBle);
+                Int32 Res = Radio.Discover(6, wclBluetoothDiscoverKind.dkBle);
                 if (Res != wclErrors.WCL_E_SUCCESS)
                     CSLibrary.Debug.WriteLine ("Error starting discovering: 0x" + Res.ToString("X8"));
             }
@@ -278,8 +278,12 @@ namespace CSLibrary
                         {
                             CSLibrary.DeviceFinder.DeviceInfomation di = new CSLibrary.DeviceFinder.DeviceInfomation();
 
-                            bool isCS108 = (Address & 0x3ca308000000) == 0x3ca308000000 || (Address & 0x6c79b8000000) == 0x6c79b8000000;
-                            bool isCS710S = (Address & 0x94c692000000) == 0x84c692000000;
+                            long filtering = Address | 0xffffff;
+                            bool isCS108 = ((filtering == 0x3ca308ffffff) ||
+                                            (filtering == 0x6c79b8ffffff) ||
+                                            (filtering == 0x7C010Affffff) ||
+                                            (filtering == 0xC8FD19ffffff));
+                            bool isCS710S = (filtering == 0x84c692ffffff);
 
                             if (isCS108 || isCS710S)
                             {
