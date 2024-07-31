@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+ 
 using wclCommon;
 using wclBluetooth;
 
@@ -126,9 +126,12 @@ namespace CSLibrary
 	    static List<long> _deviceDB = new List<long>();
         static List<CSLibrary.RFIDDEVICE.MODEL> _deviceTypeDB = new List<CSLibrary.RFIDDEVICE.MODEL>();
         static public event EventHandler<DeviceFinderArgs> OnSearchCompleted;
+        static bool _macAddressFiltering = true;
 
-        static public void SearchDevice()
+        static public void SearchDevice(bool macAddressFiltering = true)
         {
+            ClearDeviceList();
+            _macAddressFiltering = macAddressFiltering;
             if (Manager == null)
             {
                 Manager = new wclBluetoothManager();
@@ -274,27 +277,87 @@ namespace CSLibrary
                     case wclBluetoothDeviceType.dtBle:
                         {
                             CSLibrary.DeviceFinder.DeviceInfomation di = new CSLibrary.DeviceFinder.DeviceInfomation();
-                            string DevName;
-                            sbyte RSSI;
 
-                            Res = Radio.GetRemoteRssi(Address, out RSSI);
-                            if (Res != wclErrors.WCL_E_SUCCESS)
-                                RSSI = 0;
-                            Res = Radio.GetRemoteName(Address, out DevName);
-                            if (Res != wclErrors.WCL_E_SUCCESS)
-                                di.deviceName = DevName = "Error: 0x" + Res.ToString("X8");
-                            else
-                                di.deviceName = DevName;
+                            bool isCS108 = (Address & 0x3ca308000000) == 0x3ca308000000 || (Address & 0x6c79b8000000) == 0x6c79b8000000;
+                            bool isCS710S = (Address & 0x94c692000000) == 0x84c692000000;
 
-                            di.ID = (uint)_deviceDB.Count;
-                            di.macAdd = Address;
-                            di.nativeDeviceInformation = null;
+                            if (isCS108 || isCS710S)
+                            {
+                                string DevName;
+                                Res = Radio.GetRemoteName(Address, out DevName);
+                                if (Res == wclErrors.WCL_E_SUCCESS)
+                                {
+                                    di.deviceName = DevName;
 
-                            _deviceDB.Add(Address);
-                            //_deviceTypeDB.Add(RFIDDEVICE.MODEL.CS108);
-                            _deviceTypeDB.Add(RFIDDEVICE.MODEL.CS710S);
+                                    di.ID = (uint)_deviceDB.Count;
+                                    di.macAdd = Address;
+                                    di.nativeDeviceInformation = null;
 
-                            RaiseEvent<DeviceFinderArgs>(OnSearchCompleted, new DeviceFinderArgs(di));
+                                    _deviceDB.Add(Address);
+                                    if (isCS108)
+                                    {
+                                        _deviceTypeDB.Add(RFIDDEVICE.MODEL.CS108);
+                                    }
+                                    else if (isCS710S)
+                                    {
+                                        _deviceTypeDB.Add(RFIDDEVICE.MODEL.CS710S);
+                                    }
+
+                                    RaiseEvent<DeviceFinderArgs>(OnSearchCompleted, new DeviceFinderArgs(di));
+                                }
+                            }
+                            else if (!_macAddressFiltering)
+                            {
+                                string DevName;
+                                Res = Radio.GetRemoteName(Address, out DevName);
+
+                                if (Res == wclErrors.WCL_E_SUCCESS &&
+                                    (!(DevName.Length > 10 && DevName.Substring(0, 10) == "Bluetooth ")))
+                                {
+                                    di.deviceName = DevName;
+                                    di.ID = (uint)_deviceDB.Count;
+                                    di.macAdd = Address;
+                                    di.nativeDeviceInformation = null;
+
+                                    _deviceDB.Add(Address);
+                                    _deviceTypeDB.Add(RFIDDEVICE.MODEL.UNKNOWN);
+
+                                    RaiseEvent<DeviceFinderArgs>(OnSearchCompleted, new DeviceFinderArgs(di));
+                                }
+                            }
+
+                            /*
+                                                case wclBluetoothDeviceType.dtBle:
+                                                    {
+                                                        CSLibrary.DeviceFinder.DeviceInfomation di = new CSLibrary.DeviceFinder.DeviceInfomation();
+                                                        string DevName;
+                                                        sbyte RSSI;
+
+                                                        Res = Radio.GetRemoteRssi(Address, out RSSI);
+                                                        if (Res != wclErrors.WCL_E_SUCCESS)
+                                                            RSSI = 0;
+                                                        Res = Radio.GetRemoteName(Address, out DevName);
+                                                        if (Res != wclErrors.WCL_E_SUCCESS)
+                                                            di.deviceName = DevName = "Error: 0x" + Res.ToString("X8");
+                                                        else
+                                                        {
+                                                            if (!(DevName.Length > 10 && DevName.Substring(0, 10) == "Bluetooth "))
+                                                            {
+                                                                di.deviceName = DevName;
+
+                                                                di.ID = (uint)_deviceDB.Count;
+                                                                di.macAdd = Address;
+                                                                di.nativeDeviceInformation = null;
+
+                                                                _deviceDB.Add(Address);
+                                                                //_deviceTypeDB.Add(RFIDDEVICE.MODEL.CS108);
+                                                                _deviceTypeDB.Add(RFIDDEVICE.MODEL.CS710S);
+
+                                                                RaiseEvent<DeviceFinderArgs>(OnSearchCompleted, new DeviceFinderArgs(di));
+                                                            }
+                                                        }
+                                                    }
+                            */
                         }
                         break;
                 }
