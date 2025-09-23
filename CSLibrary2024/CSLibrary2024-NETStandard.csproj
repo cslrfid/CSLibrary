@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>CSLibrary</RootNamespace>
     <AssemblyName>CSLibrary2024.NETSTD2</AssemblyName>
-    <Version>3.0.7</Version>
+    <Version>3.0.8</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -61,5 +61,9 @@
 
   <ItemGroup>
     <PackageReference Include="MvvmCross.Plugin.BLE" Version="2.2.0-pre5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\CSLibrary.Tools.HPQueue.csproj" />
   </ItemGroup>
 </Project>

@@ -570,6 +570,10 @@ namespace CSLibrary.Constants
         /// </summary>
         AU,
         /// <summary>
+        /// Australia2 923.25 MHz ~ 925.25 MHz
+        /// </summary>
+        AU2,
+        /// <summary>
         /// Malaysia
         /// </summary>
         MY,
