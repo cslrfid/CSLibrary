@@ -1,0 +1,11 @@
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\bin\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.deps.json
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\bin\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.dll
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\bin\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.pdb
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\obj\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.csproj.AssemblyReference.cache
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\obj\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\obj\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.AssemblyInfoInputs.cache
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\obj\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.AssemblyInfo.cs
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\obj\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\obj\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.sourcelink.json
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\obj\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.dll
+C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\obj\Debug\netstandard2.0\CSLibrary.Tools.HPQueue.pdb
