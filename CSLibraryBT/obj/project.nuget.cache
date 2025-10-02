@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yZyEa8deCjo=",
+  "dgSpecHash": "dH0U2RXFU8s=",
   "success": true,
   "projectFilePath": "C:\\Projects\\GitHub\\CS108-Mobile-CSharp-DotNetStd-App-v4\\Library\\CSLibrary\\CSLibraryBT-NETStandard.csproj",
   "expectedPackageFiles": [
@@ -8,5 +8,15 @@
     "C:\\Users\\Mephist Siu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Mephist Siu\\.nuget\\packages\\plugin.ble\\2.1.3\\plugin.ble.2.1.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Projects\\GitHub\\CS108-Mobile-CSharp-DotNetStd-App-v4\\Library\\CSLibrary\\CSLibraryBT-NETStandard.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Projects\\GitHub\\CS108-Mobile-CSharp-DotNetStd-App-v4\\Library\\CSLibrary\\CSLibraryBT-NETStandard.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
