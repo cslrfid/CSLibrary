@@ -405,10 +405,7 @@ namespace CSLibrary
                                             switch (_sendBuffer[0].packetData[8])
                                             {
                                                 case 0x80:
-                                                    if (_sp.getConnectionMode() == RFIDDEVICE.CONNECTIONMODE.TCP)
-                                                        _packetDelayTimeout = DateTime.Now.AddMilliseconds(500);
-                                                    else
-                                                        _packetDelayTimeout = DateTime.Now.AddSeconds(3);
+                                                    _packetDelayTimeout = DateTime.Now.AddSeconds(3);
                                                     break;
 
                                                 case 0x90:

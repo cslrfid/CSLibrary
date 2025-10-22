@@ -391,12 +391,12 @@ namespace CSLibrary
             return Result.OK;
         }
 
-        public uint GetAntennaPort()
+        public int GetAntennaPort()
         {
             if (m_AntennaList == null)
                 return 1;
 
-            return (uint)m_AntennaList.Count;
+            return m_AntennaList.Count;
 		}
 
     }

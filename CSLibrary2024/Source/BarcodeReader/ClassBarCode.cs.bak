@@ -285,11 +285,11 @@ namespace CSLibrary
         /// <returns></returns>
         public bool Start()
         {
-            if (_state == STATE.NOTVALID)
-                return false;
-
             try
             {
+                if (_state == STATE.NOTVALID)
+                    return false;
+
                 _deviceHandler.SendAsync(0, 1, DOWNLINKCMD.BARCODERAWDATA, barcodecmd_ContinueMode, HighLevelInterface.BTWAITCOMMANDRESPONSETYPE.WAIT_BTAPIRESPONSE);
 
                 _goodRead = false;
@@ -309,9 +309,6 @@ namespace CSLibrary
         /// <returns></returns>
         public bool Stop()
         {
-            if (_state == STATE.NOTVALID)
-                return true;
-
             bool rc = true;
 
             try
@@ -361,9 +358,6 @@ namespace CSLibrary
 
         public bool FastBarcodeMode (bool enable)
         {
-            if (_state == STATE.NOTVALID)
-                return false;
-
             byte[] payload = new byte[1];
 
             if (enable)
@@ -441,9 +435,6 @@ namespace CSLibrary
         // public barcode function
         public void FactoryReset()
         {
-            if (_state == STATE.NOTVALID)
-                return;
-
             _deviceHandler.SendAsync(0, 1, DOWNLINKCMD.BARCODERAWDATA, barcodecmd_TiggerModeStep01, CSLibrary.HighLevelInterface.BTWAITCOMMANDRESPONSETYPE.WAIT_BTAPIRESPONSE_DATA1);
             _deviceHandler.SendAsync(0, 1, DOWNLINKCMD.BARCODERAWDATA, barcodecmd_TiggerModeStep02, CSLibrary.HighLevelInterface.BTWAITCOMMANDRESPONSETYPE.WAIT_BTAPIRESPONSE_DATA1);
             _deviceHandler.SendAsync(0, 1, DOWNLINKCMD.BARCODERAWDATA, barcodecmd_TiggerModeStep03, CSLibrary.HighLevelInterface.BTWAITCOMMANDRESPONSETYPE.WAIT_BTAPIRESPONSE_DATA1);
@@ -488,9 +479,6 @@ namespace CSLibrary
 
         internal void FactoryReset_Second()
         {
-            if (_state == STATE.NOTVALID)
-                return;
-
             _deviceHandler.SendAsync(0, 1, DOWNLINKCMD.BARCODERAWDATA, barcodecmd_T14FormatStep01, CSLibrary.HighLevelInterface.BTWAITCOMMANDRESPONSETYPE.WAIT_BTAPIRESPONSE_DATA1);
             _deviceHandler.SendAsync(0, 1, DOWNLINKCMD.BARCODERAWDATA, barcodecmd_T14FormatStep02, CSLibrary.HighLevelInterface.BTWAITCOMMANDRESPONSETYPE.WAIT_BTAPIRESPONSE_DATA1);
             _deviceHandler.SendAsync(0, 1, DOWNLINKCMD.BARCODERAWDATA, barcodecmd_T14FormatStep03, CSLibrary.HighLevelInterface.BTWAITCOMMANDRESPONSETYPE.WAIT_BTAPIRESPONSE_DATA1);

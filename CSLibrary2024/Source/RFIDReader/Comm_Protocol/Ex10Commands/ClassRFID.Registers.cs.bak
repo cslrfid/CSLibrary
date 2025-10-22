@@ -393,7 +393,7 @@ namespace CSLibrary
                     _handler.WriteRegister(address.ToArray(), sendBuffer.ToArray());
             }
 
-            internal void SetDwell(UInt16 ms, int port = -1)
+            internal void SetDwell(UInt16 ms, int port = 0)
             {
                 if (Private == REGPRIVATE.READONLY)
                     return;
@@ -420,7 +420,7 @@ namespace CSLibrary
                 }
             }
 
-            internal void SetPower(UInt16 power, int port = -1)
+            internal void SetPower(UInt16 power, int port = 0)
             {
                 if (Private == REGPRIVATE.READONLY)
                     return;
@@ -455,7 +455,7 @@ namespace CSLibrary
                 return (UInt16)data[port].power;
             }
 
-            internal void SetTargetToggle(bool enable, int port = -1)
+            internal void SetTargetToggle(bool enable, int port = 0)
             {
                 if (Private == REGPRIVATE.READONLY)
                     return;
@@ -754,7 +754,7 @@ namespace CSLibrary
                 }
             }
 
-            internal void MaxQSinceValidEpc(UInt32 Q, int port = -1)
+            internal void MaxQSinceValidEpc(UInt32 Q, int port = 0)
             {
                 if (port < 0 || port > 15)
                 {

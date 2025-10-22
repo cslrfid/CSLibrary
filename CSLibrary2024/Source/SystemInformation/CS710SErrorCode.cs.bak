@@ -38,7 +38,7 @@ namespace CSLibrary
                 new ErrorCode(0x000E, "E710 Op timeout"),
                 new ErrorCode(0x000F, "E710 Aggregate error (e.g. battery low, metal reflection)"),
                 new ErrorCode(0x0010, "E710 hardware link error"),
-                new ErrorCode(0x0011, "E710 event fail to send error (Tag Rate too high, recommended increase Intra Packet Delay time)"),
+                new ErrorCode(0x0011, "E710 event fail to send error"),
                 new ErrorCode(0x0012, "E710 antenna error (e.g. metal reflection)"),
                 new ErrorCode(0x00FF, "Other error (e.g. battery low)")
             };

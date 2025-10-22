@@ -19,9 +19,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
+using CSLibrary.Tools;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -30,23 +32,13 @@ namespace CSLibrary
 {
     public partial class HighLevelInterface
     {
-        byte[] _recvBuffer = new byte[8 + 1024 + 20]; // receive packet buffer
+        byte[] _recvBuffer = new byte[8 + 255 + 20]; // receive packet buffer
         int _currentRecvBufferSize = 0;
-        byte[] _recvBufferBackup = new byte[8 + 1024 + 20]; // backup receive packet buffer
+        byte[] _recvBufferBackup = new byte[8 + 255 + 20]; // backup receive packet buffer
         int _currentRecvBufferSizeBackup = 0;
 
         private void CharacteristicOnValueUpdated(byte[] recvData)
         {
-            while (CheckAPIHeader(recvData) && (recvData[2] < (recvData.Length - 8)))
-            {
-                byte[] data1 = new byte[recvData[2] + 8];
-                byte[] data2 = new byte[recvData.Length - data1.Length];
-                Array.Copy(recvData, data1, data1.Length);
-                Array.Copy(recvData, data1.Length, data2, 0, data2.Length);
-                recvData = data2;
-                CheckSingalPacket(data1);
-            }
-
             if (CheckSingalPacket(recvData) || FirstAssemblePacketMohod(recvData) || BackupAssemblePacketMohod(recvData))
             {
                 _currentRecvBufferSize = 0;

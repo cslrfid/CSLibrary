@@ -65,7 +65,7 @@ namespace CSLibrary
             return Result.OK;
         }
 
-        public Result SetPowerLevel_CS710S(uint pwrlevel, int port = -1)
+        public Result SetPowerLevel_CS710S(uint pwrlevel, uint port = 0)
         {
             if (pwrlevel < 0)
                 return Result.INVALID_PARAMETER;
@@ -73,7 +73,7 @@ namespace CSLibrary
             if (pwrlevel > 330)
                 pwrlevel = 330;
 
-            RFIDRegister.AntennaPortConfig.SetPower((UInt16)(pwrlevel * 10), port);
+            RFIDRegister.AntennaPortConfig.SetPower((UInt16)(pwrlevel * 10), (byte)port);
             return Result.OK;
         }
 
@@ -88,7 +88,7 @@ namespace CSLibrary
         {
             Result r;
 
-            for (int cnt = 0; cnt < pwrlevel.Length; cnt++)
+            for (uint cnt = 0; cnt < pwrlevel.Length; cnt++)
                 if ((r = SetPowerLevel_CS710S(pwrlevel[cnt], cnt)) != Result.OK)
                     return r;
 
@@ -122,7 +122,7 @@ namespace CSLibrary
                     AntennaPortSetState(0, AntennaPortState.ENABLED);
 
                     for (i = 1; i < 16; i++)
-                        AntennaPortSetState_CS710S((uint)i, AntennaPortState.DISABLED);
+                        AntennaPortSetState((uint)i, AntennaPortState.DISABLED);
                 }
                 catch (Exception ex)
                 {
@@ -137,16 +137,16 @@ namespace CSLibrary
             for (i = 0; i < numberofPower; i++)
             {
                 AntennaPortSetState_CS710S((uint)i, AntennaPortState.ENABLED);
-                SetPowerLevel_CS710S(power[i], i);
+                SetPowerLevel_CS710S(power[i], (uint)i);
                 SetInventoryDuration_CS710S(dwell[i], (uint)i);
             }
 
             if (CloneAntenna0Setting && numberofPower >= 2)
                 RFIDRegister.AntennaPortConfig.CloneAntenna0Setting();
 
-            for (; i < 16; i++)
-                AntennaPortSetState_CS710S((uint)i, AntennaPortState.DISABLED);
-            //AntennaPortSetState_CS710S(i, 15, AntennaPortState.DISABLED);
+            //            for (; i < 16; i++)
+            //                AntennaPortSetState_CS710S((uint)i, AntennaPortState.DISABLED);
+            AntennaPortSetState_CS710S(i, 15, AntennaPortState.DISABLED);
 
             return Result.OK;
         }

@@ -96,30 +96,26 @@ namespace CSLibrary
             return Result.FAILURE;
         }
 
-        public Result SetPowerLevel(uint pwrlevel, int port = -1)
+        public Result SetPowerLevel(uint pwrlevel, uint port = 0)
         {
             switch (_deviceType)
             {
                 case MODEL.CS108:
-                    if (port == -1)
-                        port = 0;
-                    return SetPowerLevel_CS108(pwrlevel, (uint)port);
+                    return SetPowerLevel_CS108(pwrlevel, port = 0);
 
                 case MODEL.CS710S:
-                    return SetPowerLevel_CS710S(pwrlevel, port);
+                    return SetPowerLevel_CS710S(pwrlevel, port = 0);
             }
 
             return Result.FAILURE;
         }
 
-        public Result SetPowerLevel(int pwrlevel, int port = -1)
+        public Result SetPowerLevel(int pwrlevel, uint port = 0)
         {
             switch (_deviceType)
             {
                 case MODEL.CS108:
-                    if (port == -1)
-                        port = 0;
-                    return SetPowerLevel_CS108((uint)pwrlevel, (uint)port);
+                    return SetPowerLevel_CS108((uint)pwrlevel, port);
 
                 case MODEL.CS710S:
                     return SetPowerLevel_CS710S((uint)pwrlevel, port);

@@ -34,17 +34,6 @@ namespace CSLibrary
 
     public static class RFIDDEVICE
     {
-        public enum CONNECTIONMODE
-        {
-            TCP,
-            BLUETOOTH,
-            RS232,
-            USB,
-            UNKNOWN
-        }
-
-        //public static CSLibrary.RFIDDEVICE.CONNECTIONMODE ConnectionMode = RFIDDEVICE.CONNECTIONMODE.UNKNOWN;
-
         /// <summary>
         /// CSL RFID Reader model (OEM model code)
         /// </summary>

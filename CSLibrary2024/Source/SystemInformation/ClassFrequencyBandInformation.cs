@@ -491,8 +491,8 @@ namespace CSLibrary
             frequencySet.Add(new FREQUENCYSET(126, "Slovak2", "-9"          , 3, "Fixed", 3900, -1, 1200, 916.3, 918.7, ""));
             frequencySet.Add(new FREQUENCYSET(127, "Slovenia1", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));
             frequencySet.Add(new FREQUENCYSET(128, "Solvenia2", "-9"          , 3, "Fixed", 3900, 100, 1200, 916.3, 918.7, ""));
-            frequencySet.Add(new FREQUENCYSET(129, "SAfrica1", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));
-            frequencySet.Add(new FREQUENCYSET(130, "SAfrica2", "-9"          , 7, "Fixed", 400, -1, 500, 915.7, 918.7, "915.4-919"));
+            frequencySet.Add(new FREQUENCYSET(129, "SouthAfrica1", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));
+            frequencySet.Add(new FREQUENCYSET(130, "SouthAfrica2", "-9"          , 7, "Fixed", 400, -1, 500, 915.7, 918.7, "915.4-919"));
             frequencySet.Add(new FREQUENCYSET(131, "Spain", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));
             frequencySet.Add(new FREQUENCYSET(132, "SriLanka", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));
             frequencySet.Add(new FREQUENCYSET(133, "Sudan", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));
@@ -505,7 +505,7 @@ namespace CSLibrary
             frequencySet.Add(new FREQUENCYSET(140, "Taiwan2", "-4"        , 12, "Hop", 400, -1, 375, 922.875, 927.000, "0.5 Watt ERP for Outdoor"));
             frequencySet.Add(new FREQUENCYSET(141, "Tajikistan", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));
             frequencySet.Add(new FREQUENCYSET(142, "Tanzania", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));
-            frequencySet.Add(new FREQUENCYSET(143, "Thailand", "-2 RW"       , 8, "Hop", 400, -1, 500, 920.75, 924.25, ""));
+            frequencySet.Add(new FREQUENCYSET(143, "Thailand", "-2 TH"       , 8, "Hop", 400, -1, 500, 920.75, 924.25, ""));
             frequencySet.Add(new FREQUENCYSET(144, "Trinidad", "-2 RW"       , 50, "Hop", 400, -1, 500, 902.75, 927.25, ""));
             frequencySet.Add(new FREQUENCYSET(145, "Tunisia", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));
             frequencySet.Add(new FREQUENCYSET(146, "Turkey", "-1"          , 4, "Fixed", 3900, 100, 600, 865.7, 867.5, ""));

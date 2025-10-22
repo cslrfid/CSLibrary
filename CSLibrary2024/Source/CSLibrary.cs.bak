@@ -109,7 +109,6 @@ namespace CSLibrary
 
         #region public variable
 
-        private SYSTEMPARAMETERS _sp = null;
         private SiliconLabIC _handleSiliconLabIC = null;
         private RFIDReader _handlerRFIDReader = null;
         private BarcodeReader _handleBarCodeReader = null;
@@ -158,7 +157,7 @@ namespace CSLibrary
                 var value = _handleBluetoothIC.GetDeviceName();
 
                 if (value == null)
-                    return _sp.getDeviceName();
+                    return _device.Name;
                 else
                     return value;
             }
@@ -176,7 +175,6 @@ namespace CSLibrary
         public HighLevelInterface()
         {
             // Basic Module
-            _sp = new SYSTEMPARAMETERS();
             _handleSiliconLabIC = new SiliconLabIC(this);
             _handlerRFIDReader = new RFIDReader(this);
             _handleBarCodeReader = new BarcodeReader(this);
@@ -216,8 +214,7 @@ namespace CSLibrary
 
             _handleBluetoothIC.Connect();
             _handleSiliconLabIC.Connect(_deviceType);
-            if (_sp.getConnectionMode() != RFIDDEVICE.CONNECTIONMODE.TCP)
-                _handleBarCodeReader.CheckHWValid();
+            _handleBarCodeReader.CheckHWValid();
 
             //rfid.StopOperation();
             //rfid.Connect(MODEL.CS710S);
