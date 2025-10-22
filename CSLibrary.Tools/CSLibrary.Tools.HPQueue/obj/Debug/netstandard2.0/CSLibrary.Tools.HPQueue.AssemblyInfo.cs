@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSLibrary.Tools.HPQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+433ccbebb2c0b75b7e517a4f493f2b0a11a97969")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+443753a670a52095898f4971678a031012e50a19")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSLibrary.Tools.HPQueue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSLibrary.Tools.HPQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

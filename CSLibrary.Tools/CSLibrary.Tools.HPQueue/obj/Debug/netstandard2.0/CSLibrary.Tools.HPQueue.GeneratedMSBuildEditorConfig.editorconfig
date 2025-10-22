@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = CSLibrary.Tools.HPQueue
-build_property.ProjectDir = C:\Projects\GitHub\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary.Tools\CSLibrary.Tools.HPQueue\
+build_property.ProjectDir = S:\Projects\GitHub\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLibrary.Tools\CSLibrary.Tools.HPQueue\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

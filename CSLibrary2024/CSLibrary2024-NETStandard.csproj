@@ -64,7 +64,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\Library\CSLobrary.Tools\CSLibrary.Tools.HPQueue\CSLibrary.Tools.HPQueue.csproj" />
     <ProjectReference Include="..\CSLibrary.Tools\CSLibrary.Tools.HPQueue\CSLibrary.Tools.HPQueue.csproj" />
   </ItemGroup>
 </Project>

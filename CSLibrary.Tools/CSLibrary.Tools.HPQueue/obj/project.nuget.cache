@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HA6T4BHs3WQ=",
+  "dgSpecHash": "owlI3hVEIi4=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\GitHub\\CS203XL-C-Sharp-APP-for-iOS-ANDROID-UWP\\Library\\CSLibrary.Tools\\CSLibrary.Tools.HPQueue\\CSLibrary.Tools.HPQueue.csproj",
+  "projectFilePath": "S:\\Projects\\GitHub\\CS710S-C-Sharp-APP-for-iOS-ANDROID-UWP\\Library\\CSLibrary.Tools\\CSLibrary.Tools.HPQueue\\CSLibrary.Tools.HPQueue.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mephist Siu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Mephist Siu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\mephi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mephi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
